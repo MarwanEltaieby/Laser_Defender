@@ -1,2 +1,2 @@
-# Laser_Defender (3D)
-This game you play as a spaceship and shoot or dodge enemy ships while moving through a terrain.
+# Laser_Defender (2D)
+This is a 2D game inspired from Chicken invader but instead you shooting chicken, you shoot other space ships.
